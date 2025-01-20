@@ -7,8 +7,8 @@
   --text-shadow-color: #555;
   --border-main-color: #ccc;
   --accent-icon-color: #e0ffff;
-  --accent-font-color:  #ff6600;
+  --accent-font-color: #ff6600;
   --main-point-color: #ff6600;
-  --first-font-style: "Noto Sans";
+  --first-font-style: "Noto Sans KR", serif;
   --second-font-style: "Lilita One", serif;
 }
